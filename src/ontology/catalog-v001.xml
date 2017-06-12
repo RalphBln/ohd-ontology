@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/ohd/dev/caro-imports.owl" uri="imports/caro-imports.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/ohd/r21cdtcodes.owl" uri="r21cdtcodes.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/ohd/dev/tongue.owl" uri="imports/fma-tongue.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/ohd/dev/tmj.owl" uri="imports/fma-tmj.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/ohd/dev/mouth-mucosa.owl" uri="imports/fma-mouth-mucosa.owl"/>
+    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/ohd/dev/jaws-teeth.owl" uri="imports/fma-jaws-teeth.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ohd/dev/r03-vdw-providers.owl" uri="r03-vdw-providers.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ohd/dev/r03-vdw-demographics.owl" uri="r03-vdw-demographics.owl"/>
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/ohd/vdw/elderly-restoration-longevity-research.owl" uri="vdw-elderly-restoration-longevity-research.owl"/>

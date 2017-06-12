@@ -41,11 +41,11 @@ Attribution is satisfied by using the URIs defined in this file when using terms
         <owl:imports rdf:resource="&obo;iao/dev/ontology-metadata.owl"/>
         <owl:imports rdf:resource="&obo;ohd/dev/CARO_imports.owl"/>
         <owl:imports rdf:resource="&obo;ohd/dev/cdt-imports.owl"/>
-        <owl:imports rdf:resource="&obo;ohd/dev/fma-jaws-teeth.owl"/>
+        <owl:imports rdf:resource="&obo;ohd/dev/jaws-teeth.owl"/>
         <owl:imports rdf:resource="&obo;ohd/dev/fma-lymph.owl"/>
-        <owl:imports rdf:resource="&obo;ohd/dev/fma-mouth-mucosa.owl"/>
-        <owl:imports rdf:resource="&obo;ohd/dev/fma-tmj.owl"/>
-        <owl:imports rdf:resource="&obo;ohd/dev/fma-tongue.owl"/>
+        <owl:imports rdf:resource="&obo;ohd/dev/mouth-mucosa.owl"/>
+        <owl:imports rdf:resource="&obo;ohd/dev/tmj.owl"/>
+        <owl:imports rdf:resource="&obo;ohd/dev/tongue.owl"/>
         <owl:imports rdf:resource="&obo;ohd/dev/iao-imports.owl"/>
         <owl:imports rdf:resource="&obo;ohd/dev/ncbi-imports.owl"/>
         <owl:imports rdf:resource="&obo;ohd/dev/obi-imports.owl"/>
